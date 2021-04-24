@@ -1,2 +1,2 @@
-# firstproject
+# PassMan
 Password manager
