@@ -85,7 +85,7 @@ public class password_manager
     	try {
     		Class.forName("com.mysql.cj.jdbc.Driver");  
     		conn=DriverManager.getConnection(  
-    		"jdbc:mysql://remotemysql.com:3306/KfAYCrQnpn","KfAYCrQnpn","rK89lSYX9h");  
+    		"jdbc:mysql://localhost:3306/sonoo","root","root");  
     	int inp,f=0;
     	
     	PreparedStatement pstmt;
